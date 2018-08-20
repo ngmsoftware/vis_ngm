@@ -11,9 +11,13 @@ Winamp plug-in made with Delphi. It has 4 kinds of visualizations. The two norma
 ## Screen-shoots
 
 ![Winamp](/doc/winamp.png?raw=true "Winamp")
+
 ![VU](/doc/vu.png?raw=true "VU")
+
 ![Spectre](/doc/spec.png?raw=true "Spectre")
+
 ![Osciloscope](/doc/scope.png?raw=true "Osciloscope")
+
 ![Dance](/doc/dance.png?raw=true "Dance")
 
 ## Instructions
