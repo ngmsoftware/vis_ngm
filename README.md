@@ -20,6 +20,8 @@ Winamp plug-in made with Delphi. It has 4 kinds of visualizations. The two norma
 
 ![Dance](/doc/dance.png?raw=true "Dance")
 
+![About](/doc/about.png?raw=true "About")
+
 ## Instructions
 
 - Copy the vis_ngm.dll to the plugins folder in Winamp
